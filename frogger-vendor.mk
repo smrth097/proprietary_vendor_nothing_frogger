@@ -522,8 +522,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/frogger/proprietary/vendor/etc/snapdragon_color_libs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/snapdragon_color_libs_config.xml \
     vendor/nothing/frogger/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/nothing/frogger/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
-    vendor/nothing/frogger/proprietary/vendor/etc/st21nfc_conf_base.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf_base.txt \
-    vendor/nothing/frogger/proprietary/vendor/etc/st54j_conf.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st54j_conf.txt \
     vendor/nothing/frogger/proprietary/vendor/etc/telephony_packages.xml:$(TARGET_COPY_OUT_VENDOR)/etc/telephony_packages.xml \
     vendor/nothing/frogger/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/nothing/frogger/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
@@ -573,8 +571,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/frogger/proprietary/vendor/firmware/goodixfp64.b08:$(TARGET_COPY_OUT_VENDOR)/firmware/goodixfp64.b08 \
     vendor/nothing/frogger/proprietary/vendor/firmware/goodixfp64.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/goodixfp64.mdt \
     vendor/nothing/frogger/proprietary/vendor/firmware/haptic_config.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/haptic_config.bin \
-    vendor/nothing/frogger/proprietary/vendor/firmware/st21nfc_fw7.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw7.bin \
-    vendor/nothing/frogger/proprietary/vendor/firmware/st54j_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st54j_fw.bin \
     vendor/nothing/frogger/proprietary/vendor/firmware/vpu20_2v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_2v.mbn \
     vendor/nothing/frogger/proprietary/vendor/gpu/kbc/sequence_manifest.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/sequence_manifest.bin \
     vendor/nothing/frogger/proprietary/vendor/gpu/kbc/unified_kbcs_32.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_32.bin \
